@@ -1,6 +1,14 @@
-## Hi there 👋
+## Hi, I'm Ashutosh 👋
 
-👋 Hi, I’m Ashutosh  
-💻 B.Tech CSE (AI & ML) | Python & ML Enthusiast  
-🌱 Currently learning Numpy, Pandas....
-🚀 Participating in Hacktoberfest 2025 
+B.Tech CSE (AI & ML) Student
+
+### Skills
+- Python
+- Pandas
+- NumPy
+- SQL
+
+### Currently Learning
+- Data Visualization :-
+- Matplotlib
+- Seaborn
